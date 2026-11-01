@@ -4,7 +4,11 @@ datasets
 scikit-learn
 pandas
 numpy
-fastapi
-uvicorn
 streamlit
 pydantic
+kagglehub
+emoji
+matplotlib
+seaborn
+bertopic 
+sentence-transformers
